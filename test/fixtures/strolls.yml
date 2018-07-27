@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2018-07-26 22:49:09
+  place: MyString
+  dogsitter: one
+  city: one
+
+two:
+  date: 2018-07-26 22:49:09
+  place: MyString
+  dogsitter: two
+  city: two
